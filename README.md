@@ -1,1 +1,1 @@
-# PCA_LogisticReg
+Applying PCA to reduce dimensionality preserved over 95% of the dataset’s variance, and when combined with logistic regression, it achieved similar accuracy to the full dataset — demonstrating minimal performance loss with fewer features.
